@@ -1,0 +1,19 @@
+.mystyleFontColor {
+    color: black;
+}
+
+.mystyleFontFamily {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.mystyleBold {
+    font-weight: bold;
+}
+
+.mystyleItalic {
+    font-style: italic;
+}
+
+.myBackground {
+    background-color: white;
+}
